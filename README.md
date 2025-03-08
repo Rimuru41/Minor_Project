@@ -82,6 +82,3 @@ Follow these steps to set up the project on your local machine:
 Feel free to reach out to us if you have any questions or suggestions! 😊
 ## 📧 Contact
 
-For any questions or suggestions, feel free to reach out to us at:
-
-- Prajwal Chaudhary: [prajwalchy25@gmail.com](mailto:prajwalchy25@gmail.com)
