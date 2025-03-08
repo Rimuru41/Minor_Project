@@ -77,8 +77,4 @@ Follow these steps to set up the project on your local machine:
 - Pabin Khanal (THA078BCT027)
 - Prajwal Chaudhary (THA078BCT028)
 
----
-
-Feel free to reach out to us if you have any questions or suggestions! 😊
-## 📧 Contact
 
