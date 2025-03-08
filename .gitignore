@@ -1,0 +1,11 @@
+#ignore vs code configuration 
+.vscode/
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+uploads/
+
+*.log
+.DS_Store
+
